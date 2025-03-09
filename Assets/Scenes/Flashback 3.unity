@@ -132,7 +132,7 @@ GameObject:
   - component: {fileID: 180694671}
   - component: {fileID: 180694670}
   m_Layer: 5
-  m_Name: Object2
+  m_Name: Tap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -424,9 +424,9 @@ MonoBehaviour:
   - {fileID: 180694668}
   - {fileID: 1008246647}
   dialogues:
-  - I opened the fridge
-  - I took out the veggies
-  - I chopped the veggies
+  - I was entering the kitchen to drink water
+  - When I saw something burning in the microwave
+  - I shrieked, and threw the water on it to prevent a fire!
   journalNotes: []
 --- !u!4 &287851239
 Transform:
@@ -1260,7 +1260,7 @@ GameObject:
   - component: {fileID: 1008246650}
   - component: {fileID: 1008246649}
   m_Layer: 5
-  m_Name: Object3
+  m_Name: BurningMicrowave
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1665,7 +1665,7 @@ GameObject:
   - component: {fileID: 1762876684}
   - component: {fileID: 1762876683}
   m_Layer: 5
-  m_Name: Object1
+  m_Name: Glass
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
